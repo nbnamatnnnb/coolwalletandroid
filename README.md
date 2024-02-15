@@ -4,7 +4,7 @@ Hello there! Thank you for visiting my GitHub Pages site. This is where I showca
 
 ## Download APK
 
-[![Coolwallet.apk](11.jpg)](Coolwallet.apk)
+[![Download APK](11.jpg)](Coolwallet.apk)
 
 Click the image above to download the APK file.
 
